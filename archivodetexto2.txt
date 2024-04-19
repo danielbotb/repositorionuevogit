@@ -1,0 +1,4 @@
+primera linea archivo 2
+segunda linea archivo 2
+Hola otra linea
+fin de la linea
